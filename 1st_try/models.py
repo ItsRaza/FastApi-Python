@@ -11,4 +11,4 @@ class Record(Base):
     country = Column(String(255), index=True)
     cases = Column(Integer)
     deaths = Column(Integer)
-    recoveries = Column(Integer
+    recoveries = Column(Integer)
