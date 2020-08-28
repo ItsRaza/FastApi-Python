@@ -1,0 +1,8 @@
+for kafka
+
+asyncio
+kafka
+confluent_kafka
+aiokafka
+Fastapi
+pydantic

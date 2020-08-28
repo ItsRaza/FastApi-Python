@@ -79,7 +79,7 @@ class Producer:
         self._producer.produce(topic, value, on_delivery=on_delivery)
 
 
-config = {"bootstrap.servers": "localhost:8000"}
+config = {"bootstrap.servers": "localhost:9092"}
 
 app = FastAPI()
 
