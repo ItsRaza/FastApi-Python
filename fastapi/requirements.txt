@@ -1,0 +1,6 @@
+pydantic
+tortoise
+fastapi
+pytest-asyncio
+httpx
+typing
